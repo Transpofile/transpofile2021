@@ -1,0 +1,4 @@
+	.container{overflow: hidden; padding:1%;background:red;}
+	.tab{float: left;}
+	.tab-2{margin-left: 50%;}
+	.tab-2 input{display: block;margin-bottom:200px;}
